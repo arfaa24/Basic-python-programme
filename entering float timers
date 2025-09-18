@@ -1,0 +1,8 @@
+a=10
+b=2.13
+c=True
+print("Intiger is:",a)
+print("float is :",b)
+print("Boolean is:",c)
+
+    
