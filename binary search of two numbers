@@ -1,0 +1,14 @@
+target=int(input())
+arr=[1,2,3,4,5]
+def binary_search(arr,target):
+    1b=0
+    while 1b<=ub:
+        if(a[mid]==largest):
+            print("element found at index")
+        elif(a[mid]<target):
+            1b=mid +1
+             
+        else:
+            ub=mid -1
+            print("enter not found")
+binary_search(arr,target)
